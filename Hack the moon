@@ -1,0 +1,3 @@
+import os
+Os.system("clear")
+print("hello xraydar")
